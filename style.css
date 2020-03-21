@@ -1,0 +1,96 @@
+.main-menu {
+    list-style-type: none;
+    text-align: center;
+    background: #e0e0e0;
+    margin: 0;
+    padding: 0;
+}
+
+.main-menu li {
+    display: inline-block;
+}
+
+.main-menu a {
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px;
+    color: #222;
+    font-size: 18px;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.profile .thumbnail {
+    width: 48%;
+    float: left;
+    padding: 1%;
+}
+
+.profile .info {
+    width: 48%;
+    float: left;
+    padding: 1%;
+}
+
+.education-item img {
+    float: left;
+    margin-right: 11px;
+}
+
+.education-item h2 {
+    margin-bottom: 0;
+    padding-top: 15px;
+}
+
+.education-item p {
+    margin-top: 9px;
+}
+
+.education {padding: 20px;}
+
+.edu-type {
+    clear: both;
+    padding-top: 38px;
+    float: none;
+    display: block;
+}
+
+.hobby-item img {
+    float: left;
+    margin-right: 20px;
+}
+
+.hobby-item {
+    padding: 10px;
+    clear: both;
+    padding-top: 43px;
+}
+
+.achievement-item img {
+    float: left;
+    margin-right: 20px;
+}
+
+.achievement-item {
+    padding: 10px;
+    clear: both;
+    padding-top: 43px;
+}
+
+.plans {
+    padding: 20px;
+}
+
+.plan-item {
+    margin-top: 40px;
+    padding: 0;
+}
+
+.plan-item h2 {
+    margin: 0;
+    padding: 0;
+}
+
